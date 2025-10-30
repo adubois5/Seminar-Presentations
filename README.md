@@ -7,7 +7,7 @@ Most notes.md files were copied from local notes taken through Obisidian. Theref
 Additionally, not all seminars and/or notes were able to be uploaded.
 
 
-### Schedule of completed seminar
+### Schedule of previously completed seminars
 | Title of Seminar | Date Completed | Presentor(s) |
 | ---------------- | -------------- | -------------|
 | Llama Overview | 09/13/2023 | Sean & Adrien |
